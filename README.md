@@ -1,3 +1,5 @@
+![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png)
+
 # Nombre del Proyecto
 
 ### Descripción del Proyecto a Entregar (Corta)
