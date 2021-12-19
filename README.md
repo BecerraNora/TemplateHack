@@ -1,4 +1,4 @@
-![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png)
+![Winter Hack](https://user-images.githubusercontent.com/9124597/146692867-3129ccaf-adfe-4ea4-a4ed-33c6c1a88712.png)
 
 # Nombre del Proyecto
 
