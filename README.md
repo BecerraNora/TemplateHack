@@ -4,9 +4,9 @@
 
 ### El proyecto es para ofrecer a los estudiantes oportunidades de viajar a costo accesibles y conozcan de que manera se puede viajar.
 
-### Link al Tiktok
+### https://vm.tiktok.com/ZM83D9r9T/
 
-### Diagrama de Azure
+### https://app.whiteboard.microsoft.com/me/whiteboards/f18328d1-f551-4227-a751-62f0095b0c68
 
 ### SLA Compuesto
 
